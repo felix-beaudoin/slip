@@ -27,7 +27,7 @@ Lisp most basic functionalities are implemented. Also added syntaxical sugar.
 Easiest way to use it is to load the file in a ghci session and call the `valOf` function on the string of the lisp expression you want to evaluate. 
 
 
-## Exemples
+## Examples
 
   ```
   (: 2 Int)                                       ; ↝ 2
